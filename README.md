@@ -37,7 +37,7 @@ Currently, two factions are temporarily set aside to prioritize faster developme
 ### Special Thanks  
 - **emerald2527**: For allowing the use of their *funny Loading Tips* mod code.  
 - **Trench Master**: For extensive testing and valuable feedback.  
-
+- **CatmanFS**: For helping out with debuging
 ---
 
 ## Links  
